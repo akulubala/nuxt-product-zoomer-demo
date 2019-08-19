@@ -1,5 +1,3 @@
 # nuxt-product-zoomer-demo
 
-> Demo For Using Product Zoomer for Nuxt
-
-> for code change check git commit 'add demo for nuxt'
+**check git commit 'add demo for nuxt'** for configuration
